@@ -19,5 +19,10 @@
 
 ### 2013.11.21 计划
 * 三个实时系统分析工具, [http://www.mpa.ethz.ch/Rtctoolbox/](http://www.mpa.ethz.ch/Rtctoolbox/)
-* 做两个页面——活动详情和报名页面
-* php 数据和呈现分离技术
+* ~~做两个页面——活动详情和报名页面~~
+* ~~php 数据和呈现分离技术~~
+
+### 2013.11.22 计划
+* 阅读关于 **CAISARTS** 的一篇论文
+* 看看 php 框架 Smarty 
+* 下午 C 语言助教
