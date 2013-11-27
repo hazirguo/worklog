@@ -1,11 +1,11 @@
 ## My Weekly Reading List
 
-reading list| already read | on progress | to read  |
-------------|--------------|-------------|----------|
-[Hackers and Software Engineers][1] |    |  √   |   |
-[Half an operating system: The triumph and tragedy of OS/2][2] |   |   |  √  |
-["class" is the worst C++ keyword.][3] |   |  √  |   |
-[C is Lower Level Than You Think][4] |   |   |  √  |
+reading list| already read | on progress | to read  | cancelled |
+------------|--------------|-------------|----------|-----------|
+[Hackers and Software Engineers][1] |    |  √   |   |   |
+[Half an operating system: The triumph and tragedy of OS/2][2] |   |   |  √  |   |
+["class" is the worst C++ keyword.][3] |   |  √  |   |    |
+[C is Lower Level Than You Think][4] |   |   |  √  |    |
 
 
 
