@@ -12,3 +12,6 @@
 * 总结一下 Linux 内核数据结构及算法
 * Git 基本概念梳理
 
+## 2013.11.28
+* 阅读论文: **Time-Predictable Computing**
+* Linux 非持久化存储的文件系统
