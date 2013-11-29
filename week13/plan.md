@@ -15,3 +15,8 @@
 ## 2013.11.28
 * 阅读论文: **Time-Predictable Computing**
 * Linux 非持久化存储的文件系统
+
+
+## 2013.11.29
+* 破解 MarkdownPad2
+* 下午C语言助教
