@@ -6,3 +6,7 @@
 ## 2013.12.10
 * 了解一下 SWEET
 * 找 RTSS 会议论文看看
+
+## 2013.12.11
+* 阅读论文 ***The Worst-Case Execution Time Problem —— Overview of Methods and Survery of Tools***
+* 阅读论文 ***Discussion of Misconceptions about WCET Analysis***
