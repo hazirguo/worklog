@@ -10,3 +10,7 @@
 * 学习 Bash 脚本关于字符串处理部分
 * 完善“规划2014——技术篇”文章
 * 测试 RTEMS 在 x86-gcc 下编译各个模块的 text 段大小
+
+
+## 2014.01.16
+* 翻译文章 http://pypix.com/python/hash-functions/
