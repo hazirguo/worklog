@@ -10,3 +10,10 @@
 
 * try to translate a post about Git —— [A git tutorial and primer](http://www.danielmiessler.com/study/git/)
 * read the paper about the performace of RTOS —— **Survey and performance evaluation of real-time operating systems (RTOS) for small microcontrollers** and take notes
+
+
+### 2014.02.12, Wednesday
+
+* read paper
+* understanding the text encoding standards
+* learn about static and dynamic linker
