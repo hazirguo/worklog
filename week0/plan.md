@@ -17,3 +17,9 @@
 * read paper
 * understanding the text encoding standards
 * learn about static and dynamic linker
+
+
+### 2014.02.13, Tuesday
+
+* read papers
+* write a blog post about libc & glibc
