@@ -23,3 +23,9 @@
 
 * read papers
 * write a blog post about libc & glibc
+
+
+### 2014.02.14, Friday
+
+* Happy Valentine's Day!
+* Happy Lantern Festival!
