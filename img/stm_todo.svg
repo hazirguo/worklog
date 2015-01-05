@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="686" height="305" viewBox="0 0 686 305">
+<style type="text/css"><![CDATA[
+text { font:12px Dialog; }
+]]></style>
+<rect x="-1096" y="-496" width="2348" height="1286" style="fill:rgb(243,244,249);stroke:none" />
+<clipPath id="clip1"><path d="M14,14 L672,14 L672,291 L14,291 L14,14 Z" /></clipPath>
+<path d="M93.6504822,121 C103.9503784,69.6666641 119.4002151,44 140,44" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip1)" />
+<clipPath id="clip2"><path d="M14,14 L672,14 L672,291 L14,291 L14,14 Z" /></clipPath>
+<path d="M140,144.9837341 C153.5555573,143.6612396 173.8888855,143 201,143" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip2)" />
+<clipPath id="clip3"><path d="M14,14 L672,14 L672,291 L14,291 L14,14 Z" /></clipPath>
+<path d="M93.0479889,173 C103.037323,224.7789001 118.0213318,250.668335 138,250.668335" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip3)" />
+<clipPath id="clip4"><path d="M14,119 L143,119 L143,176 L14,176 L14,119 Z" /></clipPath>
+<path d="M16,129 C16,124.5817184 19.5817184,121 24,121 L132,121 C136.4182739,121 140,124.5817184 140,129 L140,165 C140,169.4182739 136.4182739,173 132,173 L24,173 C19.5817184,173 16,169.4182739 16,165 Z M16,129" style="fill:rgb(104,163,223);stroke:none" clip-path="url(#clip4)" />
+<clipPath id="clip5"><path d="M14,119 L143,119 L143,176 L14,176 L14,119 Z" /></clipPath>
+<path d="M16,129 C16,124.5817184 19.5817184,121 24,121 L132,121 C136.4182739,121 140,124.5817184 140,129 L140,165 C140,169.4182739 136.4182739,173 132,173 L24,173 C19.5817184,173 16,169.4182739 16,165 Z M16,129" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip5)" />
+<text x="40" y="155" style="font:18px Verdana">stm 项目</text>
+<clipPath id="clip6"><path d="M138,14 L440,14 L440,75 L138,75 L138,14 Z" /></clipPath>
+<path d="M215,44 L228,44" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip6)" />
+<clipPath id="clip7"><path d="M138,14 L440,14 L440,75 L138,75 L138,14 Z" /></clipPath>
+<path d="M228,44 L228,37 C228,34.7919998 229.7920074,33 232,33 L237,33" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip7)" />
+<clipPath id="clip8"><path d="M138,14 L440,14 L440,75 L138,75 L138,14 Z" /></clipPath>
+<path d="M228,44 L228,49 C228,51.2080002 229.7920074,53 232,53 L237,53" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip8)" />
+<clipPath id="clip9"><path d="M138,14 L440,14 L440,75 L138,75 L138,14 Z" /></clipPath>
+<path d="M228,44 L228,69 C228,71.2080002 229.7920074,73 232,73 L237,73" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip9)" />
+<clipPath id="clip10"><path d="M138,27 L218,27 L218,62 L138,62 L138,27 Z" /></clipPath>
+<path d="M140,34 C140,31.2385712 142.2385712,29 145,29 L210,29 C212.7614288,29 215,31.2385712 215,34 L215,54 C215,56.7614288 212.7614288,59 210,59 L145,59 C142.2385712,59 140,56.7614288 140,54 Z M140,34" style="fill:rgb(211,223,255);stroke:none" clip-path="url(#clip10)" />
+<clipPath id="clip11"><path d="M138,27 L218,27 L218,62 L138,62 L138,27 Z" /></clipPath>
+<path d="M140,34 C140,31.2385712 142.2385712,29 145,29 L210,29 C212.7614288,29 215,31.2385712 215,34 L215,54 C215,56.7614288 212.7614288,59 210,59 L145,59 C142.2385712,59 140,56.7614288 140,54 Z M140,34" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip11)" />
+<text x="147" y="50" style="font:13px Verdana">NCD 调试</text>
+<clipPath id="clip12"><path d="M216,38 L229,38 L229,51 L216,51 L216,38 Z" /></clipPath>
+<path d="M226.5,44 C226.5,41.5147171 224.4852753,39.5 222,39.5 C219.5147247,39.5 217.5,41.5147171 217.5,44 C217.5,46.4852829 219.5147247,48.5 222,48.5 C224.4852753,48.5 226.5,46.4852829 226.5,44 Z M226.5,44" style="fill:rgb(210,230,255);stroke:none" clip-path="url(#clip12)" />
+<clipPath id="clip13"><path d="M216,38 L229,38 L229,51 L216,51 L216,38 Z" /></clipPath>
+<path d="M226.5,44 C226.5,41.5147171 224.4852753,39.5 222,39.5 C219.5147247,39.5 217.5,41.5147171 217.5,44 C217.5,46.4852829 219.5147247,48.5 222,48.5 C224.4852753,48.5 226.5,46.4852829 226.5,44 Z M226.5,44" style="fill:none;stroke:rgb(180,200,240)" clip-path="url(#clip13)" />
+<clipPath id="clip14"><path d="M216,38 L229,38 L229,51 L216,51 L216,38 Z" /></clipPath>
+<path d="M220,44 L224,44" style="fill:none;stroke:rgb(150,160,200)" clip-path="url(#clip14)" />
+<clipPath id="clip15"><path d="M235,14 L364,14 L364,35 L235,35 L235,14 Z" /></clipPath>
+<path d="M237,33 L361,33" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip15)" />
+<text x="242" y="29" style="font:10px Verdana">NCD Base Station 安装</text>
+<clipPath id="clip16"><path d="M235,34 L341,34 L341,55 L235,55 L235,34 Z" /></clipPath>
+<path d="M237,53 L338,53" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip16)" />
+<text x="242" y="49" style="font:10px Verdana">获取 ip 以及 端口号</text>
+<clipPath id="clip17"><path d="M235,54 L440,54 L440,75 L235,75 L235,54 Z" /></clipPath>
+<path d="M237,73 L437,73" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip17)" />
+<text x="242" y="69" style="font:10px Verdana">coral 主服务器配置设备（对外 ip+port）</text>
+<clipPath id="clip18"><path d="M199,103 L672,103 L672,184 L199,184 L199,103 Z" /></clipPath>
+<path d="M327,143 L340,143" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip18)" />
+<clipPath id="clip19"><path d="M199,103 L672,103 L672,184 L199,184 L199,103 Z" /></clipPath>
+<path d="M340,143 C340,142.447998 341.7919922,142 344,142 L349,142" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip19)" />
+<clipPath id="clip20"><path d="M199,103 L672,103 L672,184 L199,184 L199,103 Z" /></clipPath>
+<path d="M340,143 L340,178 C340,180.2080078 341.7919922,182 344,182 L349,182" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip20)" />
+<clipPath id="clip21"><path d="M199,126 L330,126 L330,161 L199,161 L199,126 Z" /></clipPath>
+<path d="M201,133 C201,130.2385712 203.2385712,128 206,128 L322,128 C324.7614136,128 327,130.2385712 327,133 L327,153 C327,155.7614288 324.7614136,158 322,158 L206,158 C203.2385712,158 201,155.7614288 201,153 Z M201,133" style="fill:rgb(211,223,255);stroke:none" clip-path="url(#clip21)" />
+<clipPath id="clip22"><path d="M199,126 L330,126 L330,161 L199,161 L199,126 Z" /></clipPath>
+<path d="M201,133 C201,130.2385712 203.2385712,128 206,128 L322,128 C324.7614136,128 327,130.2385712 327,133 L327,153 C327,155.7614288 324.7614136,158 322,158 L206,158 C203.2385712,158 201,155.7614288 201,153 Z M201,133" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip22)" />
+<text x="208" y="149" style="font:13px Verdana">STM 板子安装部署</text>
+<clipPath id="clip23"><path d="M328,137 L341,137 L341,150 L328,150 L328,137 Z" /></clipPath>
+<path d="M338.5,143 C338.5,140.5147247 336.4852905,138.5 334,138.5 C331.5147095,138.5 329.5,140.5147247 329.5,143 C329.5,145.4852753 331.5147095,147.5 334,147.5 C336.4852905,147.5 338.5,145.4852753 338.5,143 Z M338.5,143" style="fill:rgb(210,230,255);stroke:none" clip-path="url(#clip23)" />
+<clipPath id="clip24"><path d="M328,137 L341,137 L341,150 L328,150 L328,137 Z" /></clipPath>
+<path d="M338.5,143 C338.5,140.5147247 336.4852905,138.5 334,138.5 C331.5147095,138.5 329.5,140.5147247 329.5,143 C329.5,145.4852753 331.5147095,147.5 334,147.5 C336.4852905,147.5 338.5,145.4852753 338.5,143 Z M338.5,143" style="fill:none;stroke:rgb(180,200,240)" clip-path="url(#clip24)" />
+<clipPath id="clip25"><path d="M328,137 L341,137 L341,150 L328,150 L328,137 Z" /></clipPath>
+<path d="M332,143 L336,143" style="fill:none;stroke:rgb(150,160,200)" clip-path="url(#clip25)" />
+<clipPath id="clip26"><path d="M347,103 L672,103 L672,164 L347,164 L347,103 Z" /></clipPath>
+<path d="M482,142 L495,142" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip26)" />
+<clipPath id="clip27"><path d="M347,103 L672,103 L672,164 L347,164 L347,103 Z" /></clipPath>
+<path d="M495,142 L495,126 C495,123.7919998 496.7919922,122 499,122 L504,122" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip27)" />
+<clipPath id="clip28"><path d="M347,103 L672,103 L672,164 L347,164 L347,103 Z" /></clipPath>
+<path d="M495,142 C495,142 496.7919922,142 499,142 L504,142" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip28)" />
+<clipPath id="clip29"><path d="M347,103 L672,103 L672,164 L347,164 L347,103 Z" /></clipPath>
+<path d="M495,142 L495,158 C495,160.2080078 496.7919922,162 499,162 L504,162" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip29)" />
+<clipPath id="clip30"><path d="M347,123 L485,123 L485,144 L347,144 L347,123 Z" /></clipPath>
+<path d="M349,142 L482,142" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip30)" />
+<text x="354" y="138" style="font:10px Verdana">串口调试工具配置 ip+port</text>
+<clipPath id="clip31"><path d="M483,127 L496,127 L496,140 L483,140 L483,127 Z" /></clipPath>
+<path d="M493.5,133 C493.5,130.5147247 491.4852905,128.5 489,128.5 C486.5147095,128.5 484.5,130.5147247 484.5,133 C484.5,135.4852753 486.5147095,137.5 489,137.5 C491.4852905,137.5 493.5,135.4852753 493.5,133 Z M493.5,133" style="fill:rgb(210,230,255);stroke:none" clip-path="url(#clip31)" />
+<clipPath id="clip32"><path d="M483,127 L496,127 L496,140 L483,140 L483,127 Z" /></clipPath>
+<path d="M493.5,133 C493.5,130.5147247 491.4852905,128.5 489,128.5 C486.5147095,128.5 484.5,130.5147247 484.5,133 C484.5,135.4852753 486.5147095,137.5 489,137.5 C491.4852905,137.5 493.5,135.4852753 493.5,133 Z M493.5,133" style="fill:none;stroke:rgb(180,200,240)" clip-path="url(#clip32)" />
+<clipPath id="clip33"><path d="M483,127 L496,127 L496,140 L483,140 L483,127 Z" /></clipPath>
+<path d="M487,133 L491,133" style="fill:none;stroke:rgb(150,160,200)" clip-path="url(#clip33)" />
+<clipPath id="clip34"><path d="M502,103 L618,103 L618,124 L502,124 L502,103 Z" /></clipPath>
+<path d="M504,122 L615,122" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip34)" />
+<text x="509" y="118" style="font:10px Verdana">串口驱动安装 HL-340</text>
+<clipPath id="clip35"><path d="M502,123 L672,123 L672,144 L502,144 L502,123 Z" /></clipPath>
+<path d="M504,142 L669,142" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip35)" />
+<text x="509" y="138" style="font:10px Verdana">需要通过  NCD 调试获取 ip+port</text>
+<clipPath id="clip36"><path d="M502,143 L614,143 L614,164 L502,164 L502,143 Z" /></clipPath>
+<path d="M504,162 L611,162" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip36)" />
+<text x="509" y="158" style="font:10px Verdana">UartAssist.exe 安装</text>
+<clipPath id="clip37"><path d="M347,163 L471,163 L471,184 L347,184 L347,163 Z" /></clipPath>
+<path d="M349,182 L468,182" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip37)" />
+<text x="354" y="177" style="font:10px Verdana">coral 主服务器配置设备</text>
+<clipPath id="clip38"><path d="M136,212 L378,212 L378,291 L136,291 L136,212 Z" /></clipPath>
+<path d="M205,250.6666565 L217.9998322,250.7313538" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip38)" />
+<clipPath id="clip39"><path d="M136,212 L378,212 L378,291 L136,291 L136,212 Z" /></clipPath>
+<path d="M217.9998322,250.7313538 L217.9998322,235 C217.9998322,232.7919922 219.7918396,231 221.9998322,231 L227,231" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip39)" />
+<clipPath id="clip40"><path d="M136,212 L378,212 L378,291 L136,291 L136,212 Z" /></clipPath>
+<path d="M217.9998322,250.7313538 C217.9998322,250.8796387 219.7918396,251 221.9998322,251 L227,251" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip40)" />
+<clipPath id="clip41"><path d="M136,212 L378,212 L378,291 L136,291 L136,212 Z" /></clipPath>
+<path d="M217.9998322,250.7313538 L217.9998322,267 C217.9998322,269.2080078 219.7918396,271 221.9998322,271 L227,271" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip41)" />
+<clipPath id="clip42"><path d="M136,212 L378,212 L378,291 L136,291 L136,212 Z" /></clipPath>
+<path d="M217.9998322,250.7313538 L217.9998322,285 C217.9998322,287.2080078 219.7918396,289 221.9998322,289 L227,289" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip42)" />
+<clipPath id="clip43"><path d="M136,235 L208,235 L208,267 L136,267 L136,235 Z" /></clipPath>
+<path d="M138,242 C138,239.2385712 140.2385712,237 143,237 L200,237 C202.7614288,237 205,239.2385712 205,242 L205,259 C205,261.7614136 202.7614288,264 200,264 L143,264 C140.2385712,264 138,261.7614136 138,259 Z M138,242" style="fill:rgb(211,223,255);stroke:none" clip-path="url(#clip43)" />
+<clipPath id="clip44"><path d="M136,235 L208,235 L208,267 L136,267 L136,235 Z" /></clipPath>
+<path d="M138,242 C138,239.2385712 140.2385712,237 143,237 L200,237 C202.7614288,237 205,239.2385712 205,242 L205,259 C205,261.7614136 202.7614288,264 200,264 L143,264 C140.2385712,264 138,261.7614136 138,259 Z M138,242" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip44)" />
+<text x="145" y="257" style="font:13px Verdana">开发环境</text>
+<clipPath id="clip45"><path d="M206,245 L219,245 L219,258 L206,258 L206,245 Z" /></clipPath>
+<path d="M216.5,251 C216.5,248.5147095 214.4852753,246.5 212,246.5 C209.5147247,246.5 207.5,248.5147095 207.5,251 C207.5,253.4852905 209.5147247,255.5 212,255.5 C214.4852753,255.5 216.5,253.4852905 216.5,251 Z M216.5,251" style="fill:rgb(210,230,255);stroke:none" clip-path="url(#clip45)" />
+<clipPath id="clip46"><path d="M206,245 L219,245 L219,258 L206,258 L206,245 Z" /></clipPath>
+<path d="M216.5,251 C216.5,248.5147095 214.4852753,246.5 212,246.5 C209.5147247,246.5 207.5,248.5147095 207.5,251 C207.5,253.4852905 209.5147247,255.5 212,255.5 C214.4852753,255.5 216.5,253.4852905 216.5,251 Z M216.5,251" style="fill:none;stroke:rgb(180,200,240)" clip-path="url(#clip46)" />
+<clipPath id="clip47"><path d="M206,245 L219,245 L219,258 L206,258 L206,245 Z" /></clipPath>
+<path d="M210,251 L214,251" style="fill:none;stroke:rgb(150,160,200)" clip-path="url(#clip47)" />
+<clipPath id="clip48"><path d="M225,212 L283,212 L283,233 L225,233 L225,212 Z" /></clipPath>
+<path d="M227,231 L280,231" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip48)" />
+<text x="232" y="226" style="font:10px Verdana">Keil 安装</text>
+<clipPath id="clip49"><path d="M225,232 L378,232 L378,253 L225,253 L225,232 Z" /></clipPath>
+<path d="M227,251 L375,251" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip49)" />
+<text x="232" y="246" style="font:10px Verdana">程序 import，配置并编译通过</text>
+<clipPath id="clip50"><path d="M225,252 L315,252 L315,273 L225,273 L225,252 Z" /></clipPath>
+<path d="M227,271 L312,271" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip50)" />
+<text x="232" y="266" style="font:10px Verdana">J-Link 驱动安装</text>
+<clipPath id="clip51"><path d="M225,272 L311,272 L311,291 L225,291 L225,272 Z" /></clipPath>
+<path d="M227,289 L308,289" style="fill:none;stroke:rgb(0,64,128)" clip-path="url(#clip51)" />
+<text x="232" y="286" style="font:10px Verdana">下载、在线调试</text>
+</svg>
